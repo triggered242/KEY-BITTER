@@ -1,0 +1,4 @@
+git clone https://github.com/triggered242/KEY-BITTER.git
+cd KEY-BITTER
+ls -la
+git clone https://github.com/triggered242/KEY-BITTER.git
